@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Resident Evil</GameName>
+  <CategoryName>PlayStation</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">PlayStation 2</Platform>
+    <Region>JPN / NTSC</Region>
+    <Variables>
+      <Variable name="FullGame - Character">Jill</Variable>
+      <Variable name="FullGame - Mode (PS)">Original</Variable>
+      <Variable name="FullGame - Ending">Bad Ending</Variable>
+      <Variable name="FullGame - Glitches (PS)">No Major Glitches</Variable>
+      <Variable name="FullGame - Restriction">No Restriction</Variable>
+    </Variables>
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>1</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="06/22/2024 07:49:37" isStartedSynced="True" ended="06/22/2024 08:16:16" isEndedSynced="True" />
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Mansion Key (Shield Key)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="jottaerri">
+          <RealTime>00:10:11.6270000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:19:46.7097285</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:19:46.7097285</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Big Snake</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="jottaerri">
+          <RealTime>00:18:28.4160000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Crests</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="jottaerri">
+          <RealTime>00:21:53.7690000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Helmet Key (Plant dead)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="jottaerri">
+          <RealTime>00:31:27.8690000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Big Snake (Part 2)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="jottaerri">
+          <RealTime>00:36:18.6420000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Caves</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="jottaerri">
+          <RealTime>00:43:47.3990000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Big Spider</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="jottaerri">
+          <RealTime>00:47:10.2900000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Medals (Eagle and Wolf)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="jottaerri">
+          <RealTime>00:50:07.7340000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Wesker and Barry</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="jottaerri">
+          <RealTime>00:57:59.0490000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Tyrant (Part 1)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="jottaerri">
+          <RealTime>01:00:10.7930000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Final</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="jottaerri">
+          <RealTime>01:03:36.4530000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings>
+    <Version>1.5</Version>
+    <ScriptPath>C:\Users\usuario\Downloads\LiveSplit_1.8.29\Components\RE1aio.asl</ScriptPath>
+    <Start>True</Start>
+    <Reset>True</Reset>
+    <Split>True</Split>
+    <CustomSettings>
+      <Setting id="route" type="bool">False</Setting>
+      <Setting id="disc" type="bool">False</Setting>
+      <Setting id="break1" type="bool">False</Setting>
+      <Setting id="jill" type="bool">True</Setting>
+      <Setting id="chris" type="bool">False</Setting>
+      <Setting id="break2" type="bool">False</Setting>
+      <Setting id="bad" type="bool">True</Setting>
+      <Setting id="good" type="bool">False</Setting>
+      <Setting id="break3" type="bool">False</Setting>
+      <Setting id="nmg" type="bool">True</Setting>
+      <Setting id="mg" type="bool">False</Setting>
+      <Setting id="break4" type="bool">False</Setting>
+      <Setting id="none" type="bool">True</Setting>
+      <Setting id="knife" type="bool">False</Setting>
+      <Setting id="break5" type="bool">False</Setting>
+      <Setting id="doors" type="bool">True</Setting>
+      <Setting id="set" type="bool">False</Setting>
+      <Setting id="break6" type="bool">False</Setting>
+      <Setting id="egh" type="bool">False</Setting>
+      <Setting id="p42" type="bool">False</Setting>
+      <Setting id="p42rl" type="bool">False</Setting>
+      <Setting id="other" type="bool">True</Setting>
+      <Setting id="check" type="bool">True</Setting>
+      <Setting id="basic" type="bool">False</Setting>
+      <Setting id="item" type="bool">False</Setting>
+      <Setting id="51" type="bool">True</Setting>
+      <Setting id="31" type="bool">True</Setting>
+      <Setting id="2" type="bool">True</Setting>
+      <Setting id="38" type="bool">True</Setting>
+      <Setting id="7" type="bool">True</Setting>
+      <Setting id="52" type="bool">True</Setting>
+      <Setting id="35" type="bool">True</Setting>
+      <Setting id="32" type="bool">True</Setting>
+      <Setting id="33" type="bool">True</Setting>
+      <Setting id="53" type="bool">True</Setting>
+      <Setting id="41" type="bool">True</Setting>
+      <Setting id="66" type="bool">True</Setting>
+      <Setting id="44" type="bool">True</Setting>
+      <Setting id="46" type="bool">True</Setting>
+      <Setting id="45" type="bool">True</Setting>
+      <Setting id="29" type="bool">True</Setting>
+      <Setting id="62" type="bool">True</Setting>
+      <Setting id="59" type="bool">True</Setting>
+      <Setting id="57" type="bool">True</Setting>
+      <Setting id="58" type="bool">True</Setting>
+      <Setting id="54" type="bool">True</Setting>
+      <Setting id="64" type="bool">True</Setting>
+      <Setting id="batt1" type="bool">True</Setting>
+      <Setting id="MO1" type="bool">True</Setting>
+      <Setting id="30" type="bool">True</Setting>
+      <Setting id="6" type="bool">True</Setting>
+      <Setting id="63" type="bool">True</Setting>
+      <Setting id="MO2" type="bool">True</Setting>
+      <Setting id="MO3" type="bool">True</Setting>
+      <Setting id="60" type="bool">True</Setting>
+      <Setting id="55" type="bool">True</Setting>
+      <Setting id="batt2" type="bool">True</Setting>
+      <Setting id="42" type="bool">True</Setting>
+      <Setting id="10" type="bool">True</Setting>
+      <Setting id="extra" type="bool">False</Setting>
+      <Setting id="28" type="bool">False</Setting>
+      <Setting id="3" type="bool">False</Setting>
+      <Setting id="48" type="bool">False</Setting>
+      <Setting id="27" type="bool">False</Setting>
+      <Setting id="34" type="bool">False</Setting>
+      <Setting id="5" type="bool">False</Setting>
+      <Setting id="37" type="bool">False</Setting>
+      <Setting id="36" type="bool">False</Setting>
+      <Setting id="43" type="bool">False</Setting>
+      <Setting id="small1" type="bool">False</Setting>
+      <Setting id="small2" type="bool">False</Setting>
+      <Setting id="small3" type="bool">False</Setting>
+      <Setting id="small4" type="bool">False</Setting>
+      <Setting id="small5" type="bool">False</Setting>
+      <Setting id="small6" type="bool">False</Setting>
+    </CustomSettings>
+  </AutoSplitterSettings>
+</Run>

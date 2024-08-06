@@ -1,0 +1,302 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Resident Evil: Survivor</GameName>
+  <CategoryName>New Game Normal - Duckstation</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>3</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="07/04/2024 02:35:59" isStartedSynced="True" ended="07/04/2024 02:36:57" isEndedSynced="True" />
+    <Attempt id="2" started="07/04/2024 02:43:52" isStartedSynced="True" ended="07/04/2024 04:06:55" isEndedSynced="True">
+      <RealTime>00:48:01.9116463</RealTime>
+      <GameTime>00:00:00.0012227</GameTime>
+      <PauseTime>00:35:00.7432966</PauseTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Exit Restaurant</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:03:09.6181964</RealTime>
+          <GameTime>00:00:00.0012227</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:09.6181964</RealTime>
+        <GameTime>00:00:00.0012227</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:03:09.6181964</RealTime>
+          <GameTime>00:00:00.0012227</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Enter Sewers</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:06:22.8929524</RealTime>
+          <GameTime>00:00:00.0012227</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:13.2747560</RealTime>
+        <GameTime>00:00:00</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:03:13.2747560</RealTime>
+          <GameTime>00:00:00</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Reach Umbrella HQ</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:12:32.2817434</RealTime>
+          <GameTime>00:00:00.0012227</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:09.3887910</RealTime>
+        <GameTime>00:00:00</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:06:09.3887910</RealTime>
+          <GameTime>00:00:00</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Mr. X at Elevator</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:16:58.5577670</RealTime>
+          <GameTime>00:00:00.0012227</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:26.2760236</RealTime>
+        <GameTime>00:00:00</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:04:26.2760236</RealTime>
+          <GameTime>00:00:00</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Meet Lily</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:19:24.4776586</RealTime>
+          <GameTime>00:00:00.0012227</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:25.9198916</RealTime>
+        <GameTime>00:00:00</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:02:25.9198916</RealTime>
+          <GameTime>00:00:00</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Cable Car Hunters</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:22:55.8904213</RealTime>
+          <GameTime>00:00:00.0012227</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:31.4127627</RealTime>
+        <GameTime>00:00:00</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:03:31.4127627</RealTime>
+          <GameTime>00:00:00</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Enter Facility</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:25:29.7702263</RealTime>
+          <GameTime>00:00:00.0012227</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:33.8798050</RealTime>
+        <GameTime>00:00:00</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:02:33.8798050</RealTime>
+          <GameTime>00:00:00</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Mr. X on Bridge</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:33:14.4505783</RealTime>
+          <GameTime>00:00:00.0012227</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:07:44.6803520</RealTime>
+        <GameTime>00:00:00</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:07:44.6803520</RealTime>
+          <GameTime>00:00:00</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Save Lott</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:35:46.3158158</RealTime>
+          <GameTime>00:00:00.0012227</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:31.8652375</RealTime>
+        <GameTime>00:00:00</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:02:31.8652375</RealTime>
+          <GameTime>00:00:00</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Hypnos 1</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:40:06.1873631</RealTime>
+          <GameTime>00:00:00.0012227</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:19.8715473</RealTime>
+        <GameTime>00:00:00</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:04:19.8715473</RealTime>
+          <GameTime>00:00:00</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Hypnos 2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:46:05.3290354</RealTime>
+          <GameTime>00:00:00.0012227</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:05:59.1416723</RealTime>
+        <GameTime>00:00:00</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:05:59.1416723</RealTime>
+          <GameTime>00:00:00</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Hypnos 3</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:48:01.9116463</RealTime>
+          <GameTime>00:00:00.0012227</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:56.5826109</RealTime>
+        <GameTime>00:00:00</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:01:56.5826109</RealTime>
+          <GameTime>00:00:00</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings>
+    <Version>1.0</Version>
+    <CustomSettings>
+      <Setting id="igtstart" type="bool">False</Setting>
+      <Setting id="igtend" type="bool">False</Setting>
+      <Setting id="rtaend" type="bool">True</Setting>
+      <Setting id="door_split" type="bool">False</Setting>
+      <Setting id="rust" type="bool">False</Setting>
+      <Setting id="manage" type="bool">False</Setting>
+      <Setting id="crack" type="bool">False</Setting>
+      <Setting id="arcade" type="bool">False</Setting>
+      <Setting id="manhole" type="bool">False</Setting>
+      <Setting id="prison" type="bool">False</Setting>
+      <Setting id="rope" type="bool">False</Setting>
+      <Setting id="cardkey" type="bool">False</Setting>
+      <Setting id="nadegun" type="bool">False</Setting>
+      <Setting id="magnum" type="bool">False</Setting>
+      <Setting id="disk" type="bool">False</Setting>
+      <Setting id="idcard" type="bool">False</Setting>
+      <Setting id="master" type="bool">False</Setting>
+      <Setting id="hypno2" type="bool">True</Setting>
+      <Setting id="rtastart" type="bool">True</Setting>
+      <Setting id="street" type="bool">True</Setting>
+      <Setting id="sewer" type="bool">True</Setting>
+      <Setting id="umbhq" type="bool">True</Setting>
+      <Setting id="mrx1" type="bool">True</Setting>
+      <Setting id="lily" type="bool">True</Setting>
+      <Setting id="cable" type="bool">True</Setting>
+      <Setting id="facil" type="bool">True</Setting>
+      <Setting id="mrx2" type="bool">True</Setting>
+      <Setting id="huntlott" type="bool">True</Setting>
+      <Setting id="hypno1" type="bool">True</Setting>
+    </CustomSettings>
+  </AutoSplitterSettings>
+</Run>

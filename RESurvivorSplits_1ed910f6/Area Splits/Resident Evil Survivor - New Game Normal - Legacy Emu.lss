@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Resident Evil: Survivor</GameName>
+  <CategoryName>New Game Normal - Legacy Emu</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>0</AttemptCount>
+  <AttemptHistory />
+  <Segments>
+    <Segment>
+      <Name>Exit Restaurant</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Enter Sewers</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Reach Umbrella HQ</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Mr. X at Elevator</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Meet Lily</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Cable Car Hunters</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Enter Facility</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Mr. X on Bridge</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Save Lott</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Hypnos 1</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Hypnos 2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Hypnos 3</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings>
+    <Version>1.0</Version>
+    <ScriptPath>C:\Users\Desert Eagle\Desktop\Splits\LiveSplit\Components\residentevilsurvivor.wasm</ScriptPath>
+    <CustomSettings>
+      <Setting id="igtstart" type="bool">True</Setting>
+      <Setting id="igtend" type="bool">True</Setting>
+      <Setting id="rtaend" type="bool">False</Setting>
+      <Setting id="door_split" type="bool">False</Setting>
+      <Setting id="rust" type="bool">False</Setting>
+      <Setting id="manage" type="bool">False</Setting>
+      <Setting id="crack" type="bool">False</Setting>
+      <Setting id="arcade" type="bool">False</Setting>
+      <Setting id="manhole" type="bool">False</Setting>
+      <Setting id="prison" type="bool">False</Setting>
+      <Setting id="rope" type="bool">False</Setting>
+      <Setting id="cardkey" type="bool">False</Setting>
+      <Setting id="nadegun" type="bool">False</Setting>
+      <Setting id="magnum" type="bool">False</Setting>
+      <Setting id="disk" type="bool">False</Setting>
+      <Setting id="idcard" type="bool">False</Setting>
+      <Setting id="master" type="bool">False</Setting>
+      <Setting id="hypno2" type="bool">True</Setting>
+      <Setting id="rtastart" type="bool">False</Setting>
+      <Setting id="street" type="bool">True</Setting>
+      <Setting id="sewer" type="bool">True</Setting>
+      <Setting id="umbhq" type="bool">True</Setting>
+      <Setting id="mrx1" type="bool">True</Setting>
+      <Setting id="lily" type="bool">True</Setting>
+      <Setting id="cable" type="bool">True</Setting>
+      <Setting id="facil" type="bool">True</Setting>
+      <Setting id="mrx2" type="bool">True</Setting>
+      <Setting id="huntlott" type="bool">True</Setting>
+      <Setting id="hypno1" type="bool">True</Setting>
+    </CustomSettings>
+  </AutoSplitterSettings>
+</Run>

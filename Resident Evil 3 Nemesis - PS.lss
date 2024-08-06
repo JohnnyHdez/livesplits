@@ -1,0 +1,926 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Resident Evil 3: Nemesis</GameName>
+  <CategoryName>PS</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="True">PlayStation</Platform>
+    <Region>JPN / NTSC</Region>
+    <Variables>
+      <Variable name="Difficulty PS">Heavy</Variable>
+      <Variable name="Category">Any%</Variable>
+      <Variable name="PS Console or Emulator">Emulator</Variable>
+    </Variables>
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>1</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="06/11/2024 02:36:38" isStartedSynced="True" ended="06/11/2024 04:33:23" isEndedSynced="True" />
+    <Attempt id="2" started="07/04/2024 02:05:42" isStartedSynced="True" ended="07/04/2024 02:05:51" isEndedSynced="True" />
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>warehouse Exit</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="1" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Oil</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:02.6862901</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:06:02.6862901</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Bar</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:12.9776744</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:02:12.9776744</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Alley</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:40.3017973</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:01:40.3017973</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>RPD Entrance</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:32.0489134</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:00:32.0489134</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Blue Gem</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="1" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>STAR Key</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:53.8150087</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:02:53.8150087</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Lock Pick</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:43.3602257</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:01:43.3602257</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Alley Lock Door</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:42.7630860</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:01:42.7630860</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Restaurant</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:31.5004034</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:02:31.5004034</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Rusted Crank</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:35.3835517</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:02:35.3835517</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Green Gem</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="1" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Gems Clock</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:01.9524895</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:00:01.9524895</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Train</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="1" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Gas Station</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:08:36.6389334</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:08:36.6389334</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Mayor Statue 1</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:48.1596318</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:02:48.1596318</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Reataurant Backyard</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:22.2239606</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:01:22.2239606</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Mayor Statue 2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:32.1284851</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:01:32.1284851</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Plant Elevator</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:47.0070538</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:02:47.0070538</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Energy Plant</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:31.5203331</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:00:31.5203331</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Hose</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:34.0158474</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:03:34.0158474</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Alley on Fire</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:06.8958500</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:01:06.8958500</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Press room</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:10.8805362</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:02:10.8805362</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Parking Lot</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:03.3673716</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:04:03.3673716</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Giant Worm 1</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:01.5032306</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:06:01.5032306</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Train 2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:48.7352770</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:02:48.7352770</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Clock Tower Music box</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:08:05.5518825</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:08:05.5518825</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Clock Tower Gems Puzzle</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:10:15.8308847</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:10:15.8308847</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Clock Tower Nemesis</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:40.2883566</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:03:40.2883566</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Hospital</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:09:24.5511636</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:09:24.5511636</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Hospital 3F</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:17.3148262</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:00:17.3148262</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Hospital 3B</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:58.6069565</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:02:58.6069565</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Clock Tower</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:17.7249663</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:06:17.7249663</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Park Entrance</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:22.0154155</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:06:22.0154155</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Graveyar Entrance</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:24.4484515</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:02:24.4484515</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Giant Worm 2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:59.8232037</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:04:59.8232037</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Dead Factory Basement</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Dead Factory 1F</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Dead Factory 1F Nemesis</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Dead Factoru Escape Route</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Dead Factory Final Nemesis</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings>
+    <Version>1.5</Version>
+    <ScriptPath>C:\Users\usuario\Downloads\LiveSplit_1.8.29\Components\RE3aio.asl</ScriptPath>
+    <Start>True</Start>
+    <Reset>True</Reset>
+    <Split>True</Split>
+    <CustomSettings>
+      <Setting id="doors" type="bool">True</Setting>
+      <Setting id="any" type="bool">True</Setting>
+      <Setting id="nemmy" type="bool">False</Setting>
+      <Setting id="knife" type="bool">False</Setting>
+      <Setting id="alts" type="bool">False</Setting>
+      <Setting id="reload" type="bool">False</Setting>
+      <Setting id="rng" type="bool">False</Setting>
+      <Setting id="hosB3" type="bool">False</Setting>
+      <Setting id="early" type="bool">False</Setting>
+      <Setting id="exist" type="bool">False</Setting>
+      <Setting id="hiear" type="bool">False</Setting>
+      <Setting id="basic" type="bool">False</Setting>
+      <Setting id="item" type="bool">True</Setting>
+      <Setting id="115" type="bool">False</Setting>
+      <Setting id="65" type="bool">True</Setting>
+      <Setting id="66" type="bool">True</Setting>
+      <Setting id="117" type="bool">True</Setting>
+      <Setting id="114" type="bool">True</Setting>
+      <Setting id="6" type="bool">True</Setting>
+      <Setting id="69" type="bool">True</Setting>
+      <Setting id="50" type="bool">True</Setting>
+      <Setting id="68" type="bool">True</Setting>
+      <Setting id="60" type="bool">True</Setting>
+      <Setting id="79" type="bool">True</Setting>
+      <Setting id="80" type="bool">True</Setting>
+      <Setting id="49" type="bool">True</Setting>
+      <Setting id="52" type="bool">True</Setting>
+      <Setting id="63" type="bool">True</Setting>
+      <Setting id="54" type="bool">True</Setting>
+      <Setting id="51" type="bool">True</Setting>
+      <Setting id="95" type="bool">True</Setting>
+      <Setting id="57" type="bool">True</Setting>
+      <Setting id="120" type="bool">True</Setting>
+      <Setting id="119" type="bool">True</Setting>
+      <Setting id="94" type="bool">True</Setting>
+      <Setting id="76" type="bool">True</Setting>
+      <Setting id="77" type="bool">True</Setting>
+      <Setting id="64" type="bool">True</Setting>
+      <Setting id="116" type="bool">True</Setting>
+      <Setting id="82" type="bool">True</Setting>
+      <Setting id="81" type="bool">True</Setting>
+      <Setting id="85" type="bool">True</Setting>
+      <Setting id="123" type="bool">True</Setting>
+      <Setting id="124" type="bool">True</Setting>
+      <Setting id="61" type="bool">True</Setting>
+      <Setting id="125" type="bool">True</Setting>
+      <Setting id="126" type="bool">True</Setting>
+      <Setting id="112" type="bool">True</Setting>
+      <Setting id="111" type="bool">True</Setting>
+      <Setting id="96" type="bool">True</Setting>
+      <Setting id="extra" type="bool">False</Setting>
+      <Setting id="4" type="bool">False</Setting>
+      <Setting id="67" type="bool">False</Setting>
+      <Setting id="5" type="bool">False</Setting>
+      <Setting id="58" type="bool">False</Setting>
+      <Setting id="12" type="bool">False</Setting>
+      <Setting id="121" type="bool">False</Setting>
+      <Setting id="72" type="bool">False</Setting>
+      <Setting id="71" type="bool">False</Setting>
+      <Setting id="70" type="bool">False</Setting>
+      <Setting id="78" type="bool">False</Setting>
+      <Setting id="88" type="bool">False</Setting>
+      <Setting id="89" type="bool">False</Setting>
+      <Setting id="90" type="bool">False</Setting>
+      <Setting id="13" type="bool">False</Setting>
+      <Setting id="91" type="bool">False</Setting>
+      <Setting id="92" type="bool">False</Setting>
+      <Setting id="16" type="bool">False</Setting>
+      <Setting id="42" type="bool">False</Setting>
+      <Setting id="110" type="bool">False</Setting>
+      <Setting id="43" type="bool">False</Setting>
+      <Setting id="47" type="bool">False</Setting>
+      <Setting id="55" type="bool">False</Setting>
+      <Setting id="56" type="bool">False</Setting>
+      <Setting id="127" type="bool">False</Setting>
+      <Setting id="10" type="bool">False</Setting>
+      <Setting id="custom" type="bool">False</Setting>
+      <Setting id="1000" type="bool">True</Setting>
+      <Setting id="1001" type="bool">True</Setting>
+      <Setting id="1002" type="bool">True</Setting>
+      <Setting id="1003" type="bool">True</Setting>
+      <Setting id="1004" type="bool">True</Setting>
+      <Setting id="1005" type="bool">True</Setting>
+      <Setting id="1006" type="bool">False</Setting>
+      <Setting id="1007" type="bool">False</Setting>
+      <Setting id="1008" type="bool">True</Setting>
+      <Setting id="1009" type="bool">True</Setting>
+      <Setting id="1010" type="bool">True</Setting>
+      <Setting id="1011" type="bool">True</Setting>
+      <Setting id="1012" type="bool">True</Setting>
+      <Setting id="1013" type="bool">True</Setting>
+      <Setting id="1014" type="bool">False</Setting>
+      <Setting id="1015" type="bool">False</Setting>
+      <Setting id="1016" type="bool">True</Setting>
+      <Setting id="1017" type="bool">True</Setting>
+      <Setting id="1018" type="bool">True</Setting>
+      <Setting id="1019" type="bool">True</Setting>
+      <Setting id="1020" type="bool">True</Setting>
+      <Setting id="1021" type="bool">True</Setting>
+      <Setting id="1022" type="bool">True</Setting>
+      <Setting id="1023" type="bool">True</Setting>
+      <Setting id="1024" type="bool">True</Setting>
+      <Setting id="1025" type="bool">True</Setting>
+      <Setting id="1026" type="bool">True</Setting>
+      <Setting id="1027" type="bool">True</Setting>
+      <Setting id="1028" type="bool">True</Setting>
+      <Setting id="1029" type="bool">True</Setting>
+      <Setting id="1030" type="bool">True</Setting>
+      <Setting id="1031" type="bool">True</Setting>
+      <Setting id="1032" type="bool">True</Setting>
+      <Setting id="1033" type="bool">True</Setting>
+      <Setting id="1034" type="bool">True</Setting>
+      <Setting id="1035" type="bool">True</Setting>
+      <Setting id="1036" type="bool">True</Setting>
+      <Setting id="1037" type="bool">True</Setting>
+      <Setting id="1038" type="bool">True</Setting>
+      <Setting id="1039" type="bool">True</Setting>
+      <Setting id="1040" type="bool">True</Setting>
+      <Setting id="1041" type="bool">True</Setting>
+      <Setting id="1042" type="bool">True</Setting>
+      <Setting id="1043" type="bool">False</Setting>
+      <Setting id="1044" type="bool">True</Setting>
+      <Setting id="1045" type="bool">True</Setting>
+      <Setting id="1046" type="bool">False</Setting>
+      <Setting id="1047" type="bool">False</Setting>
+      <Setting id="1048" type="bool">True</Setting>
+      <Setting id="1049" type="bool">True</Setting>
+      <Setting id="1050" type="bool">True</Setting>
+      <Setting id="1051" type="bool">True</Setting>
+      <Setting id="1052" type="bool">True</Setting>
+      <Setting id="1053" type="bool">True</Setting>
+      <Setting id="1054" type="bool">True</Setting>
+      <Setting id="1055" type="bool">True</Setting>
+      <Setting id="1056" type="bool">True</Setting>
+      <Setting id="1057" type="bool">True</Setting>
+      <Setting id="1058" type="bool">True</Setting>
+      <Setting id="1059" type="bool">True</Setting>
+      <Setting id="1060" type="bool">True</Setting>
+      <Setting id="1061" type="bool">True</Setting>
+      <Setting id="1062" type="bool">True</Setting>
+      <Setting id="1063" type="bool">False</Setting>
+      <Setting id="1064" type="bool">False</Setting>
+      <Setting id="1065" type="bool">False</Setting>
+      <Setting id="1066" type="bool">False</Setting>
+      <Setting id="1067" type="bool">True</Setting>
+      <Setting id="1068" type="bool">True</Setting>
+      <Setting id="1069" type="bool">True</Setting>
+      <Setting id="1070" type="bool">True</Setting>
+      <Setting id="1071" type="bool">True</Setting>
+      <Setting id="1072" type="bool">True</Setting>
+      <Setting id="1073" type="bool">True</Setting>
+      <Setting id="1074" type="bool">True</Setting>
+      <Setting id="1075" type="bool">True</Setting>
+      <Setting id="1076" type="bool">True</Setting>
+      <Setting id="1077" type="bool">True</Setting>
+      <Setting id="1078" type="bool">True</Setting>
+      <Setting id="1079" type="bool">True</Setting>
+      <Setting id="1080" type="bool">True</Setting>
+      <Setting id="1081" type="bool">True</Setting>
+      <Setting id="1082" type="bool">True</Setting>
+      <Setting id="1083" type="bool">True</Setting>
+      <Setting id="1084" type="bool">True</Setting>
+      <Setting id="1085" type="bool">True</Setting>
+      <Setting id="1086" type="bool">True</Setting>
+      <Setting id="1087" type="bool">True</Setting>
+      <Setting id="1088" type="bool">True</Setting>
+      <Setting id="1089" type="bool">True</Setting>
+      <Setting id="1090" type="bool">True</Setting>
+      <Setting id="1091" type="bool">True</Setting>
+      <Setting id="1092" type="bool">True</Setting>
+      <Setting id="1093" type="bool">True</Setting>
+      <Setting id="1094" type="bool">True</Setting>
+      <Setting id="1095" type="bool">True</Setting>
+      <Setting id="1096" type="bool">True</Setting>
+      <Setting id="1097" type="bool">True</Setting>
+      <Setting id="1098" type="bool">True</Setting>
+      <Setting id="1099" type="bool">True</Setting>
+      <Setting id="1100" type="bool">True</Setting>
+      <Setting id="1101" type="bool">True</Setting>
+      <Setting id="1102" type="bool">True</Setting>
+      <Setting id="1103" type="bool">True</Setting>
+      <Setting id="1104" type="bool">True</Setting>
+      <Setting id="1105" type="bool">True</Setting>
+      <Setting id="1106" type="bool">True</Setting>
+      <Setting id="1107" type="bool">True</Setting>
+      <Setting id="1108" type="bool">True</Setting>
+      <Setting id="1109" type="bool">True</Setting>
+      <Setting id="1110" type="bool">True</Setting>
+      <Setting id="1111" type="bool">True</Setting>
+      <Setting id="1112" type="bool">True</Setting>
+      <Setting id="1113" type="bool">True</Setting>
+      <Setting id="1114" type="bool">True</Setting>
+      <Setting id="1115" type="bool">True</Setting>
+      <Setting id="1116" type="bool">True</Setting>
+      <Setting id="1117" type="bool">True</Setting>
+      <Setting id="1118" type="bool">True</Setting>
+      <Setting id="1119" type="bool">True</Setting>
+      <Setting id="1120" type="bool">True</Setting>
+      <Setting id="1121" type="bool">True</Setting>
+      <Setting id="1122" type="bool">True</Setting>
+      <Setting id="1123" type="bool">True</Setting>
+      <Setting id="1124" type="bool">False</Setting>
+      <Setting id="1125" type="bool">False</Setting>
+      <Setting id="1126" type="bool">False</Setting>
+      <Setting id="1127" type="bool">False</Setting>
+      <Setting id="1128" type="bool">False</Setting>
+      <Setting id="1129" type="bool">False</Setting>
+      <Setting id="1130" type="bool">True</Setting>
+      <Setting id="1131" type="bool">True</Setting>
+      <Setting id="1132" type="bool">True</Setting>
+      <Setting id="1133" type="bool">True</Setting>
+      <Setting id="1134" type="bool">True</Setting>
+      <Setting id="1135" type="bool">True</Setting>
+      <Setting id="1136" type="bool">True</Setting>
+      <Setting id="1137" type="bool">True</Setting>
+      <Setting id="1138" type="bool">True</Setting>
+      <Setting id="1139" type="bool">True</Setting>
+      <Setting id="1140" type="bool">True</Setting>
+      <Setting id="1141" type="bool">True</Setting>
+      <Setting id="1142" type="bool">True</Setting>
+      <Setting id="1143" type="bool">True</Setting>
+      <Setting id="1144" type="bool">True</Setting>
+      <Setting id="1145" type="bool">True</Setting>
+      <Setting id="1146" type="bool">True</Setting>
+      <Setting id="1147" type="bool">True</Setting>
+      <Setting id="1148" type="bool">True</Setting>
+      <Setting id="1149" type="bool">True</Setting>
+      <Setting id="1150" type="bool">True</Setting>
+      <Setting id="1151" type="bool">True</Setting>
+      <Setting id="1152" type="bool">True</Setting>
+      <Setting id="1153" type="bool">True</Setting>
+      <Setting id="1154" type="bool">True</Setting>
+      <Setting id="1155" type="bool">True</Setting>
+      <Setting id="1156" type="bool">True</Setting>
+      <Setting id="1157" type="bool">True</Setting>
+      <Setting id="1158" type="bool">True</Setting>
+      <Setting id="1159" type="bool">True</Setting>
+      <Setting id="1160" type="bool">True</Setting>
+      <Setting id="1161" type="bool">True</Setting>
+      <Setting id="1162" type="bool">False</Setting>
+      <Setting id="1163" type="bool">False</Setting>
+      <Setting id="1164" type="bool">False</Setting>
+      <Setting id="1165" type="bool">False</Setting>
+      <Setting id="1166" type="bool">False</Setting>
+      <Setting id="1167" type="bool">False</Setting>
+      <Setting id="1168" type="bool">False</Setting>
+      <Setting id="1169" type="bool">False</Setting>
+      <Setting id="1170" type="bool">False</Setting>
+      <Setting id="1171" type="bool">False</Setting>
+      <Setting id="1172" type="bool">False</Setting>
+      <Setting id="1173" type="bool">False</Setting>
+      <Setting id="1174" type="bool">False</Setting>
+      <Setting id="1175" type="bool">False</Setting>
+      <Setting id="1176" type="bool">False</Setting>
+      <Setting id="1177" type="bool">False</Setting>
+      <Setting id="1178" type="bool">False</Setting>
+      <Setting id="1179" type="bool">True</Setting>
+      <Setting id="1180" type="bool">True</Setting>
+      <Setting id="1181" type="bool">True</Setting>
+      <Setting id="1182" type="bool">True</Setting>
+      <Setting id="1183" type="bool">True</Setting>
+      <Setting id="1184" type="bool">True</Setting>
+      <Setting id="1185" type="bool">True</Setting>
+      <Setting id="1186" type="bool">True</Setting>
+      <Setting id="1187" type="bool">True</Setting>
+      <Setting id="1188" type="bool">True</Setting>
+      <Setting id="1189" type="bool">True</Setting>
+      <Setting id="1190" type="bool">True</Setting>
+      <Setting id="1191" type="bool">True</Setting>
+      <Setting id="1192" type="bool">True</Setting>
+      <Setting id="1193" type="bool">True</Setting>
+      <Setting id="1194" type="bool">True</Setting>
+      <Setting id="1195" type="bool">True</Setting>
+      <Setting id="1196" type="bool">True</Setting>
+      <Setting id="1197" type="bool">True</Setting>
+      <Setting id="1198" type="bool">True</Setting>
+      <Setting id="1199" type="bool">True</Setting>
+      <Setting id="1200" type="bool">True</Setting>
+      <Setting id="1201" type="bool">True</Setting>
+      <Setting id="1202" type="bool">True</Setting>
+      <Setting id="1203" type="bool">True</Setting>
+      <Setting id="1204" type="bool">True</Setting>
+      <Setting id="1205" type="bool">True</Setting>
+      <Setting id="1206" type="bool">True</Setting>
+      <Setting id="1207" type="bool">True</Setting>
+      <Setting id="1208" type="bool">True</Setting>
+      <Setting id="1209" type="bool">True</Setting>
+      <Setting id="1210" type="bool">True</Setting>
+      <Setting id="1211" type="bool">True</Setting>
+      <Setting id="1212" type="bool">True</Setting>
+      <Setting id="1213" type="bool">True</Setting>
+      <Setting id="1214" type="bool">True</Setting>
+      <Setting id="1215" type="bool">True</Setting>
+      <Setting id="1216" type="bool">True</Setting>
+      <Setting id="1217" type="bool">True</Setting>
+      <Setting id="1218" type="bool">True</Setting>
+      <Setting id="1219" type="bool">True</Setting>
+      <Setting id="1220" type="bool">True</Setting>
+      <Setting id="1221" type="bool">True</Setting>
+      <Setting id="1222" type="bool">False</Setting>
+      <Setting id="1223" type="bool">False</Setting>
+      <Setting id="1224" type="bool">True</Setting>
+      <Setting id="1225" type="bool">True</Setting>
+      <Setting id="1226" type="bool">True</Setting>
+      <Setting id="1227" type="bool">True</Setting>
+      <Setting id="1228" type="bool">True</Setting>
+      <Setting id="1229" type="bool">True</Setting>
+      <Setting id="1230" type="bool">True</Setting>
+      <Setting id="1231" type="bool">True</Setting>
+      <Setting id="1232" type="bool">True</Setting>
+      <Setting id="1233" type="bool">True</Setting>
+      <Setting id="1234" type="bool">True</Setting>
+      <Setting id="1235" type="bool">True</Setting>
+      <Setting id="1236" type="bool">True</Setting>
+      <Setting id="1237" type="bool">True</Setting>
+      <Setting id="1238" type="bool">True</Setting>
+      <Setting id="1239" type="bool">True</Setting>
+      <Setting id="1240" type="bool">True</Setting>
+      <Setting id="1241" type="bool">True</Setting>
+      <Setting id="1242" type="bool">True</Setting>
+      <Setting id="1243" type="bool">True</Setting>
+      <Setting id="1244" type="bool">True</Setting>
+    </CustomSettings>
+  </AutoSplitterSettings>
+</Run>
