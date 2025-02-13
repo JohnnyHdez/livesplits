@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Resident Evil 2</GameName>
+  <CategoryName>Claire A</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>0</AttemptCount>
+  <AttemptHistory />
+  <Segments>
+    <Segment>
+      <Name>RPD</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>STARS Office</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Library</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Chief Irons</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Sherry</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Club Key</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Red Hallway</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Cog Room</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>G-Mutanto</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Sewers</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Train Birkin</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Lab Key Card</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>MO Disk</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Vaccine</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>End</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings>
+    <Version>1.5</Version>
+    <ScriptPath>C:\Users\Steve\Downloads\LiveSplit_1.8.21\Components\RE2aio.asl</ScriptPath>
+    <Start>True</Start>
+    <Reset>True</Reset>
+    <Split>True</Split>
+    <CustomSettings>
+      <Setting id="doors" type="bool">True</Setting>
+      <Setting id="leona" type="bool">True</Setting>
+      <Setting id="clairea" type="bool">False</Setting>
+      <Setting id="leonb" type="bool">False</Setting>
+      <Setting id="claireb" type="bool">False</Setting>
+      <Setting id="low" type="bool">False</Setting>
+      <Setting id="hunk" type="bool">False</Setting>
+      <Setting id="ex" type="bool">False</Setting>
+      <Setting id="bombs" type="bool">False</Setting>
+      <Setting id="exdoors" type="bool">False</Setting>
+      <Setting id="degen" type="bool">False</Setting>
+      <Setting id="set" type="bool">False</Setting>
+      <Setting id="setla" type="bool">False</Setting>
+      <Setting id="setca" type="bool">False</Setting>
+      <Setting id="setlb" type="bool">False</Setting>
+      <Setting id="setcb" type="bool">False</Setting>
+      <Setting id="check" type="bool">False</Setting>
+      <Setting id="basic" type="bool">False</Setting>
+      <Setting id="item" type="bool">False</Setting>
+      <Setting id="88" type="bool">True</Setting>
+      <Setting id="53" type="bool">True</Setting>
+      <Setting id="71" type="bool">True</Setting>
+      <Setting id="89" type="bool">True</Setting>
+      <Setting id="67" type="bool">True</Setting>
+      <Setting id="red1" type="bool">True</Setting>
+      <Setting id="red2" type="bool">True</Setting>
+      <Setting id="50" type="bool">True</Setting>
+      <Setting id="90" type="bool">True</Setting>
+      <Setting id="91" type="bool">True</Setting>
+      <Setting id="92" type="bool">True</Setting>
+      <Setting id="74" type="bool">True</Setting>
+      <Setting id="72" type="bool">True</Setting>
+      <Setting id="73" type="bool">True</Setting>
+      <Setting id="93" type="bool">True</Setting>
+      <Setting id="94" type="bool">True</Setting>
+      <Setting id="77" type="bool">True</Setting>
+      <Setting id="76" type="bool">True</Setting>
+      <Setting id="97" type="bool">True</Setting>
+      <Setting id="96" type="bool">True</Setting>
+      <Setting id="95" type="bool">True</Setting>
+      <Setting id="98" type="bool">True</Setting>
+      <Setting id="99" type="bool">True</Setting>
+      <Setting id="84" type="bool">True</Setting>
+      <Setting id="17" type="bool">True</Setting>
+      <Setting id="itemL" type="bool">False</Setting>
+      <Setting id="59" type="bool">True</Setting>
+      <Setting id="62" type="bool">True</Setting>
+      <Setting id="75" type="bool">True</Setting>
+      <Setting id="5" type="bool">True</Setting>
+      <Setting id="60" type="bool">True</Setting>
+      <Setting id="61" type="bool">True</Setting>
+      <Setting id="itemC" type="bool">False</Setting>
+      <Setting id="9" type="bool">True</Setting>
+      <Setting id="47" type="bool">True</Setting>
+      <Setting id="65" type="bool">True</Setting>
+      <Setting id="64" type="bool">True</Setting>
+      <Setting id="56" type="bool">True</Setting>
+      <Setting id="58" type="bool">True</Setting>
+      <Setting id="57" type="bool">True</Setting>
+      <Setting id="54" type="bool">True</Setting>
+      <Setting id="81" type="bool">True</Setting>
+      <Setting id="79" type="bool">True</Setting>
+      <Setting id="78" type="bool">True</Setting>
+      <Setting id="extra" type="bool">False</Setting>
+      <Setting id="32" type="bool">False</Setting>
+      <Setting id="4" type="bool">False</Setting>
+      <Setting id="7" type="bool">False</Setting>
+      <Setting id="34" type="bool">False</Setting>
+      <Setting id="8" type="bool">False</Setting>
+      <Setting id="33" type="bool">False</Setting>
+      <Setting id="6" type="bool">False</Setting>
+      <Setting id="12" type="bool">False</Setting>
+      <Setting id="13" type="bool">False</Setting>
+      <Setting id="14" type="bool">False</Setting>
+      <Setting id="15" type="bool">False</Setting>
+      <Setting id="16" type="bool">False</Setting>
+      <Setting id="18" type="bool">False</Setting>
+      <Setting id="52" type="bool">False</Setting>
+      <Setting id="63" type="bool">False</Setting>
+      <Setting id="85" type="bool">False</Setting>
+      <Setting id="55" type="bool">False</Setting>
+      <Setting id="66" type="bool">False</Setting>
+      <Setting id="83" type="bool">False</Setting>
+      <Setting id="86" type="bool">False</Setting>
+      <Setting id="68" type="bool">False</Setting>
+      <Setting id="69" type="bool">False</Setting>
+      <Setting id="70" type="bool">False</Setting>
+      <Setting id="80" type="bool">False</Setting>
+    </CustomSettings>
+  </AutoSplitterSettings>
+</Run>

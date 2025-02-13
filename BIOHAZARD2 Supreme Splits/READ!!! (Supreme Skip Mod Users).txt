@@ -1,0 +1,5 @@
+To get the Autosplitter working with Supreme door and cutscene skip your exe name should be
+
+bio2 1.10 - Supreme Skip
+
+copy and paste ^^^^^^^ it has to be exact!
